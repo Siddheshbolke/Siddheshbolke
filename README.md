@@ -1,7 +1,7 @@
-[![MasterHead](https://img.pikbest.com/backgrounds/20220310/web-development-marketing-for-banner-using-animation_6288801.jpg!bwr800)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Siddhesh Bolke</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="coding" width"200px" src="https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshbolke&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshbolke" /> </p>
 
