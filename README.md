@@ -1,7 +1,7 @@
 [![MasterHead](https://img.pikbest.com/backgrounds/20220310/web-development-marketing-for-banner-using-animation_6288801.jpg!bwr800)
 <h1 align="center">Hi 👋, I'm Siddhesh Bolke</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="coding" width"400" src="https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif">
+<img align="right" alt="coding" width"" src="https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshbolke&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshbolke" /> </p>
 
